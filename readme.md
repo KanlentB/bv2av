@@ -11,6 +11,7 @@ python版本 3.7.3
 ```
 python bv2av.py
 ```
+会显示转换的BV号数目
 
 只能BV转av
 只能按照BV.txt的格式(每个BV号间换行)填入
